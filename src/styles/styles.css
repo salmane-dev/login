@@ -1,0 +1,34 @@
+#Body{
+    min-height: 550px;
+}
+.primary{
+    background: #f2b632 !important;
+}
+.secondery{
+    background: #2A2C43 !important;
+    color:#ffffff !important;
+}
+.left{
+    float:left !important;
+}
+input{
+    color:#333333 !important;
+    border-radius:5px !important;
+}
+button{
+  border-radius:5px !important;
+}
+.off-canvas{z-index: 1 !important}
+h1,h2,h3, h4{
+  font-weight: bold !important;
+}
+
+
+.row{
+    text-align: center;
+}
+
+label, input{
+    padding: 5px;
+    margin: 5px;
+}
